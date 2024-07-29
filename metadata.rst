@@ -33,7 +33,7 @@ For a full list of the possible arguments to ``classifiers``, visit http://pypi.
 A README / Long Description
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-You'll probably want a README file in your source distribution, and that file can serve double purpose as the ``long_description`` specified to PyPI. Further, if that file is written in reStructuredText, it can be formatted nicely.
+You'll probably want a README file in your source distribution, and that file can serve a double purpose as the ``long_description`` specified to PyPI. Further, if that file is written in markdown or reStructuredText, it can be formatted nicely.
 
 For **funniest**, let's add two files::
 
